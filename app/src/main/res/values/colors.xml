@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="hjau_muda">#FF03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="ungu">#FF6200EE</color>
+    <color name="biru_tua">#FF3700B3</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="hijau_terang">#00FF00</color>
+    <color name="merahtua">#8B0000</color>
+</resources>

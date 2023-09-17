@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Style untuk activity -->
+    <style name="Base.Theme.CaesarAppGithub" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/biru_tua</item>
+        <item name="colorPrimaryVariant">@color/ungu</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/hjau_muda</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:backgroundTint">@color/design_default_color_secondary</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Theme.CaesarAppGithub" parent="Base.Theme.CaesarAppGithub" />
+</resources>
